@@ -5,7 +5,7 @@ CKEditor 4 – The best browser-based WYSIWYG editor
 
 This repository contains the development version of CKEditor.
 
-**Attention:** The code in this repository should be used locally and development purposes only.
+**Attention:** The code in this repository should be used locally and for development purposes only.
 We don’t recommend distributing it on remote websites because the user experience will be very limited.
 For that purpose, you should build it (see below) or use an official release instead,
 available on the [CKEditor website](http://ckeditor.com).
@@ -30,7 +30,7 @@ The development code contains the following main elements:
     it provides the entire JavaScript API that makes the magic happen.
     - `plugins/`: contains most of the plugins maintained by the CKEditor core team.
     - `skin/`: contains the official default skin of CKEditor.
-    - `dev/`: contains “developer tools.”
+    - `dev/`: contains “developer tools”.
 
 ### Building a Release
 
